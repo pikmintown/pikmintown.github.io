@@ -1,1 +1,1 @@
-# pikmintown.github.io
+[ttt/](ttt/)
