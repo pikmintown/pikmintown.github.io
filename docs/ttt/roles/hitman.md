@@ -2,7 +2,7 @@
 
 ## Zusammenfassung
 
-Das Addon Hitman fügt den [Hitman](#Hitman) als neue Rolle hinzu.
+Das Addon Hitman fügt den [Hitman](#hitman) als neue Rolle hinzu.
 
 ### Hitman
 

@@ -1,7 +1,7 @@
 # Addon: Sheriff
 ## Zusammenfassung
 
-Das Addon Sheriff fügt zwei neue Rollen hinzu: den [Sheriff](#Sheriff) und den [Deputy](#Deputy).
+Das Addon Sheriff fügt zwei neue Rollen hinzu: den [Sheriff](#sheriff) und den [Deputy](#deputy).
 
 ### Sheriff
 

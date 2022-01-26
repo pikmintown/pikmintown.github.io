@@ -2,7 +2,7 @@
 
 ## Zusammenfassung
 
-Das Addon Swapper fügt den [Swapper](#Swapper) als neue Rolle hinzu.
+Das Addon Swapper fügt den [Swapper](#swapper) als neue Rolle hinzu.
 
 ### Swapper
 

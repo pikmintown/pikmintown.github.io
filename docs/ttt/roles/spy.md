@@ -2,7 +2,7 @@
 
 ## Zusammenfassung
 
-Das Addon Spy fügt den [Spion](#Spion) als neue Rolle hinzu.
+Das Addon Spy fügt den [Spion](#spion) als neue Rolle hinzu.
 
 ### Spion
 

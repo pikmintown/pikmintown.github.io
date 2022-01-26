@@ -2,7 +2,7 @@
 
 ## Zusammenfassung
 
-Das Addon Necromancer fügt zwei neue Rolle hinzu: den [Necromancer](#Necromancer) und den [Zombie](#Zombie).
+Das Addon Necromancer fügt zwei neue Rolle hinzu: den [Necromancer](#necromancer) und den [Zombie](#zombie).
 
 ### Necromancer
 

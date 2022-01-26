@@ -2,11 +2,11 @@
 
 ## Zusammenfassung
 
-Das Addon Jackal fügt zwei neue Rollen hinzu: den [Jackal](#Jackal) und den [Sidekick](#Sidekick)
+Das Addon Jackal fügt zwei neue Rollen hinzu: den [Jackal](#jackal) und den [Sidekick](#sidekick)
 
 ### Jackal
 
-Der Jackal mischt das Spielgeschehen nochmal auf. Bei Nutzung des Addons wird zu Rundenstart ein drittes Team gebildet: das "Jackal-Team". Dieses wiederum muss alle Innocents und Traitor ausschalten, bevor die Zeit abläuft, um zu gewinnen (Der Jackal kann keine andere Rolle haben, anders als der [Sidekick](#Sidekick)). Allerdings wird zu Beginn der Runde nur ein Jackal festgelegt. Dieser hat allerdings eine "Sidekick-Deagle" in seinem Inventar, mit welcher er einen beliebigen Spieler zu sich ins Team holen kann (zum Sidekick machen).
+Der Jackal mischt das Spielgeschehen nochmal auf. Bei Nutzung des Addons wird zu Rundenstart ein drittes Team gebildet: das "Jackal-Team". Dieses wiederum muss alle Innocents und Traitor ausschalten, bevor die Zeit abläuft, um zu gewinnen (Der Jackal kann keine andere Rolle haben, anders als der [Sidekick](#sidekick)). Allerdings wird zu Beginn der Runde nur ein Jackal festgelegt. Dieser hat allerdings eine "Sidekick-Deagle" in seinem Inventar, mit welcher er einen beliebigen Spieler zu sich ins Team holen kann (zum Sidekick machen).
 Außerdem besitzt auch der Jackal einen Shop.
 
 ### Sidekick
